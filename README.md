@@ -29,3 +29,6 @@
 ## [20201110 leetcode-1370 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)
 - [Java实现](leetcode/1370/Solution.java)
 - [JavaScript实现](leetcode/1370/Solution.js)
+## [20201111 leetcode-1556 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/)
+- [Java实现](leetcode/1566/Solution.java)
+- [JavaScript实现]
