@@ -32,3 +32,6 @@
 ## [20201111 leetcode-1556 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/)
 - [Java实现](leetcode/1566/Solution.java)
 - [JavaScript实现]
+## [20201112 leetcode-852 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
+- [Java实现](leetcode/852/Solution.java)
+- [JavaScript实现]
