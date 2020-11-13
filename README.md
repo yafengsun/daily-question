@@ -37,3 +37,5 @@
 - [JavaScript实现]
 ## [20201113 leetcode-面试题 02.01](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
 - [Java实现](leetcode/面试题-02-01/Solution.java)
+## [20201114 leetcode-1470 重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array/)
+- [Java实现](leetcode/)
