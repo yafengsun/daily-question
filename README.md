@@ -41,3 +41,5 @@
 - [Java实现](leetcode/1470/Solution.java)
 ## [20201115 leetcode-1122 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)
 - [Java实现](leetcode/1122/Solution.java)
+## [20201116 leetcode-1572 矩阵对角线元素的和](https://leetcode-cn.com/problems/matrix-diagonal-sum/)
+- [Java实现](leetcode/1572/Solution.java)
