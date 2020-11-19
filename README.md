@@ -45,3 +45,5 @@
 - [Java实现](leetcode/1572/Solution.java)
 ## [20201117 leetcode-1030 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)
 - [Java实现](leetcode/1030/Solution.java)
+## [20201118 leetcode-283 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+- [Java实现](leetcode/283/Solution.java)
