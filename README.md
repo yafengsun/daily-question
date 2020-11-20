@@ -49,3 +49,5 @@
 - [Java实现](leetcode/283/Solution.java)
 ## [20201119 leetcode-771 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 - [Java实现](leetcode/771/Solution.java)
+## [20201120 leetcode-1480 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
+- [Java实现](leetcode/1480/Solution.java)
