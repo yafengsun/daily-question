@@ -51,3 +51,5 @@
 - [Java实现](leetcode/771/Solution.java)
 ## [20201120 leetcode-1480 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
 - [Java实现](leetcode/1480/Solution.java)
+## [20201121 leetcode-148 排序链表](https://leetcode-cn.com/problems/sort-list/)
+- [Java实现](leetcode/148/Solution.java)
