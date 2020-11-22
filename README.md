@@ -53,3 +53,5 @@
 - [Java实现](leetcode/1480/Solution.java)
 ## [20201121 leetcode-148 排序链表](https://leetcode-cn.com/problems/sort-list/)
 - [Java实现](leetcode/148/Solution.java)
+## [20201122 leetcode-242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+- [Java实现](leetcode/242/Solution.java)
