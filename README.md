@@ -55,3 +55,5 @@
 - [Java实现](leetcode/148/Solution.java)
 ## [20201122 leetcode-242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 - [Java实现](leetcode/242/Solution.java)
+## [20201123 leetcode-1342 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [Java实现](leetcode/1342/Solution.java)
